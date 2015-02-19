@@ -1,0 +1,10 @@
+& {
+  &[raised] {
+    color: $text-primary-color;
+    background: $primary-color;
+
+    &:hover {
+      background: $dark-primary-color;
+    }
+  }
+}
